@@ -1,2 +1,2 @@
 # SharpBoi
-A GameBoy emulator (Coding Exercise)
+This is a GameBoy emulator written in C#
